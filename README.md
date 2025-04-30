@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FFFFFF&center=true&width=435&lines=Learning...+%F0%9F%93%96" alt="Typing SVG" /></a></h2>
+<h2>Learning... 📖</h2>
 
 <br>
 
@@ -36,7 +36,8 @@
 <a href=" "><img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat-square&logo=reactrouter&logoColor=black"/></a><br>
 <a href=""><img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/nextdotjs-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/nextdotjs-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a><br>
+<a href=""><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 
 </div>
 
@@ -57,8 +58,7 @@
 <a href=""><img src="https://img.shields.io/badge/zoom-0B5CFF?style=flat-square&logo=zoom&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a><br>
 <a href=""><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=로고이름&logoColor=로고색"/></a>
-
+<a href=""><img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
 
 </div>
 
