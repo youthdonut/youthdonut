@@ -93,5 +93,26 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youthdonut&langs_count=8&layout=compact)
+
 </div>
+
+<br>
+<br>
+
+<div align="center">
+
+<h2>Etc 🍩</h2>
+
+<br>
+<br>
+
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbtmd10)
+
+  
+</div>
+
+<br>
+<br>
+
+
 
