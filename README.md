@@ -83,7 +83,7 @@
 <br>
 
 <div align="center">
-<h2>My GitHub Status💻</h2>
+<h2>My GitHub Status 💻</h2>
 <br/>
 <br>
   
