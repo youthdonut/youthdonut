@@ -73,7 +73,6 @@
 <br>
 
 <a href=""><img src="https://img.shields.io/badge/Inflearn-14BF96?style=flat-square&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/Nomadcoder-FF9500?style=flat-square&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/stackoverflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white"/></a>
 
 </div>
