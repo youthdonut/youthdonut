@@ -1,51 +1,91 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=1689F5&height=125&text=🍩Youth%20Donut🍩&desc=small%20hello&descSize=28&animation=blinking&fontColor=93C8FA&fontSize=30&fontAlignY=50&fontAlign=35&descAlign=65&descAlignY=50" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=1689F5&height=120&text=🍩Youth%20Donut🍩&desc=Developer&descSize=28&animation=blinking&fontColor=93C8FA&fontSize=30&fontAlignY=50&fontAlign=35&descAlign=65&descAlignY=50" /> 
+</div>
 
-<div>
+<br>
+<br>
+<br>
+
+<div align="center">
   
-<h2>My Page 📄</h2>
+<h2>My Pages 📄</h2>
+
+<br>
 
 <a href="https://velog.io/@yu_and_hip_0/posts" target="_blank" ><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=black"/></a>
 <a href="https://github.com/youthdonut" target="_blank" ><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </div> 
 
-<div>
+<br>
+<br>
+<br>
+
+
+<div align="center">
+
+<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FFFFFF&center=true&width=435&lines=Learning...+%F0%9F%93%96" alt="Typing SVG" /></a></h2>
+
+<br>
+
+<a href=" " ><img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=black"/></a>
+<a href=" " ><img src="https://img.shields.io/badge/css-663399?style=flat-square&logo=css&logoColor=black"/></a>
+<a href=" " ><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
+<a href=" " ><img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>
+<a href=" " ><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=black"/></a>
+<a href=" "><img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat-square&logo=reactrouter&logoColor=black"/></a><br>
+<a href=""><img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/nextdotjs-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
+
+</div>
+
+<br>
+<br>
+<br>
+
+
+<div align="center">
+
+<h2>Tools ⚒️</h2>
+
+<br>
+
+<a href=""><img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/zoom-0B5CFF?style=flat-square&logo=zoom&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a><br>
+<a href=""><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=로고이름&logoColor=로고색"/></a>
+
+
+</div>
+
+<br>
+<br>
+<br>
+
+<div align="center">
 
 <h2>Education 📚</h2>
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/css-663399?style=flat-square&logo=css&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=black"/></a>
+
+<br>
+
+<a href=""><img src="https://img.shields.io/badge/Inflearn-14BF96?style=flat-square&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/Nomadcoder-FF9500?style=flat-square&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/stackoverflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white"/></a>
 
 </div>
 
-<div>
+<br>
+<br>
+<br>
 
-<h2>Tool ⚒️</h2>
-
-
-
-  
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-<p>💻My Git Hub Status💻</p>
+<div align="center">
+<h2>My GitHub Status💻</h2>
 <br/>
 <br>
-<br>
-
-<div>
   
 ![youthdount's GitHub stats](https://github-readme-stats.vercel.app/api?username=youthdonut&show_icons=true&title_color=031322&icon_color=F58215&bg_color=RGB,1689F5,70D7FD&hide_border=true&locale=kr)
 
